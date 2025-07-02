@@ -1,0 +1,25 @@
+{
+    "assignmentID": 5576,
+    "problems": {
+        "cs1400-sneks-39_01-dictionary_patterns_genre_counts": {
+            "id": 157,
+            "step": 1
+        },
+        "cs1400-sneks-39_02-dictionary_patterns_word_frequency": {
+            "id": 154,
+            "step": 1
+        },
+        "cs1400-sneks-39_03-dictionary_patterns_definitions": {
+            "id": 155,
+            "step": 1
+        },
+        "cs1400-sneks-39_04-dictionary_patterns_lookup_limitations": {
+            "id": 158,
+            "step": 1
+        },
+        "cs1400-sneks-39_05-dictionary_patterns_mapping_classes": {
+            "id": 156,
+            "step": 1
+        }
+    }
+}

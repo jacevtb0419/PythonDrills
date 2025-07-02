@@ -1,0 +1,80 @@
+<html><head></head><body><h1>Project 4) Ada Stats</h1>
+
+<p>Last week, you collected some data out in the field. This week, you&#39;ll analyze
+that data by calling some basic statistical functions. Normally, this would be
+trivial, since Python has several built-in functions to do Summations, Averages,
+and Standard Deviations. However, for this assignment CodeGrinder has been
+configured to disable these built-in statistic functions. That means you will
+have to create your own.</p>
+
+<p>Your learning goals are as follows:</p>
+
+<ul>
+<li>Write functions that consume and/or produce lists</li>
+<li>Write functions that incorporate if statements to guard against bad arguments</li>
+<li>Practice responding to unit tests</li>
+<li>Translate mathematical formula into code</li>
+</ul>
+
+<h3>Program Structure</h3>
+
+<p>Some code is already given to you. You will benefit from reading through the
+entire file before writing any code.</p>
+
+<p>For this project, you will need to implement a total of five functions and
+define three variables. <strong>When defining these functions, you cannot use any
+built-in list handling functions (e.g., len, sum) or external modules (e.g.,
+statistics, numpy).</strong></p>
+
+<p>Here is an explanation of each function:</p>
+
+<ol>
+<li><code>count()</code>: Consumes a list of numbers and returns an integer representing the
+length of that list.</li>
+<li><code>summate()</code>: Consumes a list of numbers and returns an integer representing
+the total sum of all the numbers in the list (i.e., adds up all of the
+numbers in the list).</li>
+<li><code>mean()</code>: Consumes a list of numbers and returns a float value representing
+the mean of the list. The formula for the mean of a list is
+<br/><code>mean = sum / count</code><br/>
+<strong>Think strategically about how you can use functions you have already
+written to simplify this function&#39;s definition.</strong> If the list is empty, then
+return the special value <code>None</code> (but do this before attempting to calculate
+the mean). You should use the <code>round()</code> function to round the result to two
+decimal places.</li>
+<li><code>square()</code>: Consumes a list of numbers and returns a new list of numbers
+where each element from the original list has been squared.</li>
+<li><code>standard_deviation()</code>: Consumes a list of numbers and returns a float
+representing their standard deviation. If the list has fewer than 2 elements,
+you should return the special value <code>None</code>. The standard deviation formula
+you should use is described <a href="https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance#Na%C3%AFve_algorithm">here</a>.
+However, you may simply implement it according to the following steps:
+
+<ol>
+<li>Count how many numbers there are and save the result to a variable (e.g., <code>length</code>)</li>
+<li>If the length is less than 2, return <code>None</code></li>
+<li>Sum all of the numbers and save the result to a variable (e.g., <code>total</code>)</li>
+<li>Square the total of all of the numbers and save the result to a variable (e.g., <code>total_squared</code>)</li>
+<li>Divide the square of the total by the count of numbers and save the result to a variable (e.g., <code>divided_by_count</code>)</li>
+<li>Square each number and save the result to a variable (e.g., <code>squared</code>)</li>
+<li>Sum all of the squared numbers and save the result to a variable (e.g., <code>sum_squared</code>)</li>
+<li>Subtract divided_by_count from the sum of the squared numbers and save the result to a variable (e.g., <code>diff</code>)</li>
+<li>Divide the diff by the (count - 1) and save the result to a variable (e.g., <code>result</code>)</li>
+<li>Return the square root of this result (hint: what exponent represents the square root?) Take advantage of the functions you have already written to simplify this function&#39;s definition. For reference, here is the entire formula described in the steps above but in one line (although I recommend not implementing it this way):<br/><code>stdev = (((sum of the values squared) - ((sum of the values) * (sum of the values))/(count of the values))/(count of the values - 1)) ** .5</code></li>
+</ol></li>
+<li><code>main()</code>: This function is given to you. For it to work properly, copy over
+your <code>QUESTION</code> and <code>ANSWER</code> variables from last week&#39;s Field Work assignment
+into the proper assignment statements toward the top of the file. These
+variables are used to call the <code>main()</code> function at the bottom of the file.</li>
+</ol>
+
+<h3>Evaluating Your Solution</h3>
+
+<p>You are graded based on passing the unit tests in CodeGrinder. Only the unit
+tests can determine if you earn points. You should evaluate your code early and
+often as you develop. The inability to follow instructions and use CodeGrinder
+is not an excuse. <strong>You must match the expected results exactly.</strong></p>
+
+<p>There are no limits to how many times you can submit your code. However, we
+keep the grade of the most recent submission.</p>
+</body></html>

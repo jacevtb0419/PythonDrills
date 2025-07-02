@@ -1,0 +1,33 @@
+{
+    "assignmentID": 1577,
+    "problems": {
+        "cs1400-sneks-09_01-arithmetic_addition": {
+            "id": 107,
+            "step": 1
+        },
+        "cs1400-sneks-09_02-arithmetic_subtraction": {
+            "id": 103,
+            "step": 1
+        },
+        "cs1400-sneks-09_03-arithmetic_multiplication": {
+            "id": 105,
+            "step": 1
+        },
+        "cs1400-sneks-09_04-arithmetic_division": {
+            "id": 106,
+            "step": 1
+        },
+        "cs1400-sneks-09_05-arithmetic_modulo": {
+            "id": 101,
+            "step": 1
+        },
+        "cs1400-sneks-09_06-arithmetic_exponents": {
+            "id": 102,
+            "step": 1
+        },
+        "cs1400-sneks-09_07-arithmetic_formula": {
+            "id": 104,
+            "step": 1
+        }
+    }
+}

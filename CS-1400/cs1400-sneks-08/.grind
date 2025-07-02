@@ -1,0 +1,25 @@
+{
+    "assignmentID": 965,
+    "problems": {
+        "cs1400-sneks-08_01-values_integers": {
+            "id": 234,
+            "step": 1
+        },
+        "cs1400-sneks-08_02-values_floats": {
+            "id": 230,
+            "step": 1
+        },
+        "cs1400-sneks-08_03-values_strings": {
+            "id": 232,
+            "step": 1
+        },
+        "cs1400-sneks-08_04-values_booleans": {
+            "id": 231,
+            "step": 1
+        },
+        "cs1400-sneks-08_05-values_numbers_strings": {
+            "id": 233,
+            "step": 1
+        }
+    }
+}

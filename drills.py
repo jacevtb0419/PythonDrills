@@ -64,7 +64,11 @@ def list_comprehensions():
     b = [x for x in a if x % 2 == 0]
     print(b)
 
+def rock_paper_scissors():
+    player1_choice = input("Choose Rock, Paper, or Scissors")
+    player2_choice = input("Choose Rock, Paper, or Scissors")
+
 def main():
-    list_comprehensions()
+    string_lists()
     
 main()

@@ -1,0 +1,29 @@
+{
+    "assignmentID": 2172,
+    "problems": {
+        "cs1400-sneks-15_01-strings_single_quotes": {
+            "id": 199,
+            "step": 1
+        },
+        "cs1400-sneks-15_02-strings_double_quotes": {
+            "id": 196,
+            "step": 1
+        },
+        "cs1400-sneks-15_03-strings_double_double_quotes": {
+            "id": 197,
+            "step": 1
+        },
+        "cs1400-sneks-15_04-strings_triple_quotes": {
+            "id": 201,
+            "step": 1
+        },
+        "cs1400-sneks-15_05-strings_ints_strs": {
+            "id": 200,
+            "step": 1
+        },
+        "cs1400-sneks-15_06-strings_string_of_stuff": {
+            "id": 198,
+            "step": 1
+        }
+    }
+}

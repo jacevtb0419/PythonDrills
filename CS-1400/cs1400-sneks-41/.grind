@@ -1,0 +1,37 @@
+{
+    "assignmentID": 5611,
+    "problems": {
+        "cs1400-sneks-41_01-nested_data_nested_dictionaries": {
+            "id": 136,
+            "step": 1
+        },
+        "cs1400-sneks-41_02-nested_data_list_of_dictionaries": {
+            "id": 133,
+            "step": 1
+        },
+        "cs1400-sneks-41_03-nested_data_summing_lod": {
+            "id": 139,
+            "step": 1
+        },
+        "cs1400-sneks-41_04-nested_data_summing_lodod": {
+            "id": 138,
+            "step": 1
+        },
+        "cs1400-sneks-41_05-nested_data_winsome_wind_sum": {
+            "id": 135,
+            "step": 1
+        },
+        "cs1400-sneks-41_06-nested_data_nested_lists": {
+            "id": 137,
+            "step": 1
+        },
+        "cs1400-sneks-41_07-nested_data_sum_dictionary": {
+            "id": 132,
+            "step": 1
+        },
+        "cs1400-sneks-41_08-nested_data_extract_key": {
+            "id": 134,
+            "step": 1
+        }
+    }
+}

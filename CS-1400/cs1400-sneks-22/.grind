@@ -1,0 +1,25 @@
+{
+    "assignmentID": 3151,
+    "problems": {
+        "cs1400-sneks-22_01-return_print_print_greeting": {
+            "id": 173,
+            "step": 1
+        },
+        "cs1400-sneks-22_02-return_print_return_greeting": {
+            "id": 170,
+            "step": 1
+        },
+        "cs1400-sneks-22_03-return_print_used_return": {
+            "id": 174,
+            "step": 1
+        },
+        "cs1400-sneks-22_04-return_print_body_problem": {
+            "id": 171,
+            "step": 1
+        },
+        "cs1400-sneks-22_05-return_print_make_receipt": {
+            "id": 172,
+            "step": 1
+        }
+    }
+}

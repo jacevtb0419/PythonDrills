@@ -1,0 +1,25 @@
+{
+    "assignmentID": 2416,
+    "problems": {
+        "cs1400-sneks-18_01-builtin_functions_dashing_name": {
+            "id": 121,
+            "step": 1
+        },
+        "cs1400-sneks-18_02-builtin_functions_highs_lows": {
+            "id": 123,
+            "step": 1
+        },
+        "cs1400-sneks-18_03-builtin_functions_fixing_titles": {
+            "id": 124,
+            "step": 1
+        },
+        "cs1400-sneks-18_04-builtin_functions_parameters_arguments": {
+            "id": 120,
+            "step": 1
+        },
+        "cs1400-sneks-18_05-builtin_functions_naming": {
+            "id": 122,
+            "step": 1
+        }
+    }
+}

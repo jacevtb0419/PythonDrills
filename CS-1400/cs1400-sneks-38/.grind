@@ -1,0 +1,17 @@
+{
+    "assignmentID": 5401,
+    "problems": {
+        "cs1400-sneks-38_01-dictionary_operations_default_name": {
+            "id": 244,
+            "step": 1
+        },
+        "cs1400-sneks-38_02-dictionary_operations_dictionary_mutation": {
+            "id": 246,
+            "step": 1
+        },
+        "cs1400-sneks-38_03-dictionary_operations_dictionary_iteration": {
+            "id": 243,
+            "step": 1
+        }
+    }
+}

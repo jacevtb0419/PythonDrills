@@ -1,0 +1,21 @@
+{
+    "assignmentID": 967,
+    "problems": {
+        "cs1400-sneks-06_01-console_io_try_running": {
+            "id": 151,
+            "step": 1
+        },
+        "cs1400-sneks-06_02-console_io_now_you_print": {
+            "id": 152,
+            "step": 1
+        },
+        "cs1400-sneks-06_03-console_io_print_your_name": {
+            "id": 153,
+            "step": 1
+        },
+        "cs1400-sneks-06_04-console_io_print_input": {
+            "id": 150,
+            "step": 1
+        }
+    }
+}

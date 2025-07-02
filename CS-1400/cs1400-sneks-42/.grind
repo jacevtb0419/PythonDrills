@@ -1,0 +1,17 @@
+{
+    "assignmentID": 5798,
+    "problems": {
+        "cs1400-sneks-42_01-while_loops_no_while_loops": {
+            "id": 160,
+            "step": 1
+        },
+        "cs1400-sneks-42_02-while_loops_while_input": {
+            "id": 161,
+            "step": 1
+        },
+        "cs1400-sneks-42_03-while_loops_choose": {
+            "id": 159,
+            "step": 1
+        }
+    }
+}

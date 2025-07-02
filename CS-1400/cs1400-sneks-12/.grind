@@ -1,0 +1,21 @@
+{
+    "assignmentID": 1690,
+    "problems": {
+        "cs1400-sneks-12_01-variables_assignment_aged_variable": {
+            "id": 141,
+            "step": 1
+        },
+        "cs1400-sneks-12_02-variables_assignment_naming": {
+            "id": 143,
+            "step": 1
+        },
+        "cs1400-sneks-12_03-variables_assignment_extract": {
+            "id": 140,
+            "step": 1
+        },
+        "cs1400-sneks-12_04-variables_assignment_combining": {
+            "id": 144,
+            "step": 1
+        }
+    }
+}

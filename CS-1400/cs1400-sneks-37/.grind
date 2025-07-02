@@ -1,0 +1,17 @@
+{
+    "assignmentID": 5315,
+    "problems": {
+        "cs1400-sneks-37_01-dictionaries_apartment_listing": {
+            "id": 238,
+            "step": 1
+        },
+        "cs1400-sneks-37_02-dictionaries_name_check": {
+            "id": 239,
+            "step": 1
+        },
+        "cs1400-sneks-37_03-dictionaries_name_function": {
+            "id": 237,
+            "step": 1
+        }
+    }
+}
